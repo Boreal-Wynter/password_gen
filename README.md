@@ -7,9 +7,8 @@ When I was using my iPhone to create a new account, I made the observation of ho
 
 ## Deployment
 
-To run this project just click this button here! [Click to See Application!](https://github.com/Boreal-Wynter/password_gen/blob/1ae82839611a72b203ad1503547f7d7ae576af5b/generate_password.exe)
+To run this project just click this button here, to go to the application's page and download the file! [Click to See Application!](https://github.com/Boreal-Wynter/password_gen/blob/1ae82839611a72b203ad1503547f7d7ae576af5b/generate_password.exe)
 
-<a href="[generate_password.exe](https://github.com/Boreal-Wynter/password_gen/blob/1ae82839611a72b203ad1503547f7d7ae576af5b/generate_password.ex)" download>Download Program!</a>
 
 
 ## Lessons Learned
