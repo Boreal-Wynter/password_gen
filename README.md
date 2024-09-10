@@ -40,7 +40,7 @@ Tkinter is a pre-installed GUI library included with Python that is simple to us
 Using pyinstaller was a breeze to use and help me turn my program into an executable file that anyone can use! This application removes the need of having python and any dependencies to run the program, reducing time and hassle on other users part! 
 ## Screenshots
 
-![App Screenshot](https://github.com/Boreal-Wynter/password_gen/blob/fcc23cf306716a850a1a5020d8a8670c717363ce/Application.png)
+![App Screenshot](https://github.com/Boreal-Wynter/password_gen/blob/902caabe2acb2c1a0402007305d3dc93004c74a3/Application.png)
 
 
 ## Acknowledgements
