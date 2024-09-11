@@ -54,7 +54,7 @@ Using pyinstaller was a breeze to use and help me turn my program into an execut
    - [readme.so](https://readme.so/)
 
  - Thank you Coding with Nick for helping me understand how to convert my program into an executable file using pyinstaller!
-   - [readme.so](https://www.youtube.com/watch?v=bEBMo52OCis)
+   - [How to Convert a Python File to .EXE](https://www.youtube.com/watch?v=bEBMo52OCis)
 
  - Thanks Apple for creating a short blog on how your passwords are created.
    - [Apple Support](https://support.apple.com/guide/security/automatic-strong-passwords-secc84c811c4/web)
