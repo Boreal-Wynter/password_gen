@@ -24,7 +24,7 @@ The overall structure of a Apple Password. Each password contains:
 
 #### Why?
 
-The reason why Apple generates passwords this way is becasue it has high `entropy`. Entropy is the measure of a password strength against different forms of password cracking. This is important because as we continue along in our life, coputers and their computing increase resulting in less time needed to guess a large amount of passwords.
+The reason why Apple generates passwords this way is because it has high `entropy`. Entropy is the measure of a password strength against different forms of password cracking. This is important because as we continue along in our life, coputers and their computing increase resulting in less time needed to guess a large amount of passwords.
 
 Given that the possible number of symbols for a password is 64 and the length of any password created is 20,
 
